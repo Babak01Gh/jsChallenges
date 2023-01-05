@@ -1,0 +1,18 @@
+body{
+    background-color: rgba(15, 33, 73, 0.932);
+}
+a{
+    color: green;
+    text-decoration: none;
+    font-weight: 700;
+}
+ul{
+    list-style: decimal;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    color: snow;
+}
+span{
+    color: snow;
+}
